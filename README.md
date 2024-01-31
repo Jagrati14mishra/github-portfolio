@@ -1,5 +1,5 @@
 
-here is a overview 
+
 
 <h1>aboutmyself</h1>
 hey! I am Jagrati Mishra, a BCA final year student and currently working as a intern at "Knoldus(Part of Nashtech)". I completed my intermediate from SGM International,Kanpur and highschool from BNSDSN Inter College,Kanpur.
