@@ -8,4 +8,6 @@ hey! I am Jagrati Mishra, a BCA final year student and currently working as a in
 During my inernship period I learned lot of new things both technical and non-technical from here which will help me to grow rapidly in my career. Here i learn about Monitoring, Linux, Git&Github, Docker, Terraform, Kubernetes, AWS, Azure, Jenkins and so many.
 
 <h1> linkedinprofile</h1>
-https://www.linkedin.com/in/jagrati-mishra-a4216428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+[![LinkedIn](https://www.linkedin.com/in/jagrati-mishra-a4216428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
