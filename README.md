@@ -9,5 +9,5 @@ During my inernship period I learned lot of new things both technical and non-te
 
 <h1> linkedinprofile</h1>
 
-[![LinkedIn](https://www.linkedin.com/in/jagrati-mishra-a4216428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+![LinkedIn](https://www.linkedin.com/in/jagrati-mishra-a4216428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
