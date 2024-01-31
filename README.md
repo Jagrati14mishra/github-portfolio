@@ -1,4 +1,4 @@
-![image]https://github.com/Jagrati14mishra/github-portfolio-Jagrati-Mishra/blob/main/InShot_20240129_113757979.jpg?raw=true
+![myportfolioimage](https://github.com/Jagrati14mishra/github-portfolio-Jagrati-Mishra/blob/main/InShot_20240129_113757979.jpg?raw=true)
 
 
 <h1>aboutmyself</h1>
