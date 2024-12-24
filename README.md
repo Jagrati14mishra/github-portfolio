@@ -2,10 +2,10 @@
 
 
 <h1>aboutmyself</h1>
-hey! I am Jagrati Mishra, a BCA final year student and currently working as a intern at "Knoldus(Part of Nashtech)".I completed my intermediate from SGM International,Kanpur and highschool from Shri Saraswati Vidya Mandi,Kanpur.
+hey! I am Jagrati Mishra. I completed my internship from nashtech and now I am NOC engineer with having 1 year of experience.
 
 <h1>aboutmyinernship&work</h1> 
-During my inernship period I learned lot of new things both technical and non-technical from here, which will help me to grow rapidly in my career. Here i learn about Networking, continuous Monitoring, Linux, Git&Github, Docker, Terraform, Kubernetes, AWS, Azure, Jenkins and so many.
+During my inernship period I learned lot of new things both technical and non-technical which will help me to grow rapidly in my career. Here i learned about Networking, continuous Monitoring, Linux, Git&Github, Docker, Terraform, Kubernetes, Cloud Computing, Jenkins and so many.
 
 
 <h1>linkedinprofile</h1>
